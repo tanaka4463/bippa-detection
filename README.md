@@ -15,3 +15,9 @@ cv2: 4.4.0
 tqdm: 4.56.0  
 PIL: 8.0.1  
 pandas: 1.1.5 
+
+## Demo
+
+
+## Usage
+`$ python main.py`
