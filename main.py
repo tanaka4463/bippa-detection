@@ -17,4 +17,4 @@ def main():
     epochs = 2
     train(epochs = epochs, model = model, dataLoaders = dataLoaders, optimizer = optimizer)
 
-inference('img', 0)
+main()
