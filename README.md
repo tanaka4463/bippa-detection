@@ -22,4 +22,5 @@ pandas: 1.1.5
 
 
 ## Usage
-`$ python main.py`
+`$ python main.py`  
+上記プログラムで学習させた後、inference()の実行で推論を行います。
