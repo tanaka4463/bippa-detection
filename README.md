@@ -17,6 +17,7 @@ PIL: 8.0.1
 pandas: 1.1.5 
 
 ## Demo
+![bippa](https://github.com/tanaka4463/bippa-detection/blob/main/img/2021053000371400-194D89293F260C6893CF3FBF65B93019.jpg)
 
 
 ## Usage
